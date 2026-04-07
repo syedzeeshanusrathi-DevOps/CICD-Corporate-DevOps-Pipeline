@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Spring Boot Shopping Cart Web App
 
 ## About
@@ -166,7 +165,3 @@ jdbc:h2:mem:shopping_cart_db
 
 In `/src/main/resources/application.properties` file it is possible to change both
 web interface url path, as well as the datasource url.
-=======
-# CICD-Corporate-DevOps-Pipeline
-🚀 CI/CD Corporate DevOps Pipeline  This repository demonstrates a production-grade CI/CD pipeline designed for enterprise (corporate) environments. It automates the entire software delivery lifecycle—from code integration to deployment—ensuring faster, reliable, and scalable releases.
->>>>>>> 8c81984c9fee712691f68733410bcefd27012579
